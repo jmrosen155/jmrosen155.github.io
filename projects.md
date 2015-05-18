@@ -6,7 +6,7 @@ permalink: /projects/
 
 I have worked on a number of assignments and projects throughtout my time at Columbia thus far. Some of the major ones are listed below.
 
-#Group Project Work
+##Group Project Work
 
 ###Yelp Recommendation System
 
@@ -37,7 +37,7 @@ Used collaborative filtering algorithms that utilize user feedback in order to p
 
 *[Github](https://github.com/jmrosen155/musicanalysis)*
 
-#Coursework
+##Coursework
 
 Please also check out my Github coursework repo at the link below, where I upload all of the code for my coursework (e.g. algorithms, machine learning, distributed computer systems, etc).
 
