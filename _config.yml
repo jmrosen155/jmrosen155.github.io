@@ -1,0 +1,8 @@
+# Site settings
+title: Jordan's Github Page
+#email: jmrosen155@gmail.com
+description: Spring 2015<br/> Department of Applied Mathematics<br/> Columbia University
+github_username:  jmrosen155
+
+# Build settings
+markdown: kramdown
