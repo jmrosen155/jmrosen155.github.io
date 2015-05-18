@@ -8,7 +8,7 @@ I have worked on a number of assignments and projects throughtout my time at Col
 
 #Group Project Work
 
-##Yelp Recommendation System
+###Yelp Recommendation System
 
 Implemented new features to visualize Yelp search results around Columbia University using the 2012 Yelp academic dataset:
 
@@ -27,7 +27,7 @@ Implemented new features to visualize Yelp search results around Columbia Univer
 
 *[Github](https://github.com/CUDSY/Yelp)*
 
-##Music Recommendation System using the Million Song Dataset (last.fm)
+###Music Recommendation System using the Million Song Dataset (last.fm)
 
 Used collaborative filtering algorithms that utilize user feedback in order to predict what songs users may like. For benchmarking the algorithms, we used a Mean Average Precision score truncated at 500 recommended songs. It was discovered that probabilistic matrix factorization with a MAP value of 0.014 did not improve results much from using a baseline of simply recommending popular songs, while artist-based popularity along with user-based and item-based collaborative filtering methods yielded much better results, with the best method giving a MAP value of 0.048.
 
