@@ -1,6 +1,7 @@
 ---
 title: This is my title
-layout: post
+layout: page
+permalink: /test/
 ---
 
 Here is my page.
