@@ -12,8 +12,8 @@ Create posts in _posts/, following this jekyll naming convention: YYYY-MM-DD-the
 
 Start posts with the following header:
 
----
-layout: post
-title:  "The post title"
-date:   YYYY-MM-DD HH:MM:SS
----
+  ---
+  layout: post
+  title:  "The post title"
+  date:   YYYY-MM-DD HH:MM:SS
+  ---
