@@ -12,10 +12,10 @@ I have worked on a number of assignments and projects throughtout my time at Col
 
 Implemented new features to visualize Yelp search results around Columbia University using the 2012 Yelp academic dataset:
 
-*Scraped relevant restaurant data from the Yelp website using Beautiful Soup in Python.
-*Calculated the Jaccard index and performed matrix factorization to identify similar restaurants in order to build a similarity recommendation system in Leaflet and Shiny.
-*Created a 'food vs star preference search' feature in d3 for fast restaurant search.
-*Designed a food recommendation engine in JavaScript and d3 that displays the most mentioned food items in a square tree map, with the size of each square image corresponding to the number of mentions in a review.
+- Scraped relevant restaurant data from the Yelp website using Beautiful Soup in Python.
+- Calculated the Jaccard index and performed matrix factorization to identify similar restaurants in order to build a similarity recommendation system in Leaflet and Shiny.
+- Created a 'food vs star preference search' feature in d3 for fast restaurant search.
+- Designed a food recommendation engine in JavaScript and d3 that displays the most mentioned food items in a square tree map, with the size of each square image corresponding to the number of mentions in a review.
 
 *[Yelp Similarity Recommendation System](http://jmrosen155.shinyapps.io/YelpRecommendationSystemFinal)*
 
