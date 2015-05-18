@@ -16,5 +16,4 @@ Start posts with the following header:
 layout: post
 title:  "The post title"
 date:   YYYY-MM-DD HH:MM:SS
-categories: lectures
 ---
