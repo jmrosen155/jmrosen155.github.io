@@ -41,6 +41,18 @@
             </a>
           </li>
           {% endif %}
+          
+          {% if site.email_username %}
+          <li>
+            <a href="mailto:{{ site.email_username }}">
+              <span class="icon icon--gmail">
+                <img src="https://www.google.com/images/icons/product/googlemail-16.png" width="16" height="16" style="horizontal-align:middle" border="0">
+              </span>
+
+              <span class="username">{{ site.email_username }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 
