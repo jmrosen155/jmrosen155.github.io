@@ -1,4 +1,1 @@
-<center>
-<h1>Jordan's Github Page</h1>
-
 I am currently pursuing a MS degree in Data Science at Columbia University. In particular, I am taking courses in algorithms, statistical inference, machine learning, distributed computer systems, and visualization. I am interested in learning more about data science or analytics opportunities so that I can apply my knowledge in an inventive environment.
