@@ -9,7 +9,7 @@ Creating Posts
 
 Create posts in _posts/, following this jekyll naming convention: YYYY-MM-DD-the-post-title.md
 
-Start posts with the following header:
+###Start posts with the following header:
 
   ---
   layout: post
