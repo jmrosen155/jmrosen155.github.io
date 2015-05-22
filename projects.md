@@ -25,7 +25,7 @@ Implemented new features to visualize Yelp search results around Columbia Univer
 
 *[Write-Up](https://cdn.rawgit.com/CUDSY/Yelp/master/Write-Up/EDAV:%20Exploring%20the%20Yelp%20Dataset.html)*
 
-*[Github](https://github.com/CUDSY/Yelp)*
+*[GitHub](https://github.com/CUDSY/Yelp)*
 
 ###Music Recommendation System Using the Million Song Dataset (last.fm)
 
@@ -35,10 +35,10 @@ Used collaborative filtering algorithms that utilize user feedback in order to p
 
 *[Algorithms](https://github.com/jmrosen155/coursework/tree/master/Modeling%20Social%20Data/Music%20Analysis%20Project/Algorithms)*
 
-*[Github](https://github.com/jmrosen155/musicanalysis)*
+*[GitHub](https://github.com/jmrosen155/musicanalysis)*
 
 ##Coursework
 
 Please also check out my Github coursework repo at the link below, where I upload all of the code for my coursework (e.g. algorithms, machine learning, distributed computer systems, etc).
 
-*[Github](https://github.com/jmrosen155/coursework)*
+*[GitHub](https://github.com/jmrosen155/coursework)*
