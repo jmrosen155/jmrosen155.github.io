@@ -39,6 +39,6 @@ Used collaborative filtering algorithms that utilize user feedback in order to p
 
 ##Coursework
 
-Please also check out my Github coursework repo at the link below, where I upload all of the code for my coursework (e.g. algorithms, machine learning, distributed computer systems, etc).
+Please also check out my GitHub coursework repo at the link below, where I upload all of the code for my coursework (e.g. algorithms, machine learning, distributed computer systems, etc).
 
 *[GitHub](https://github.com/jmrosen155/coursework)*
