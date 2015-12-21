@@ -4,7 +4,7 @@ title: Project Work
 permalink: /projects/
 ---
 
-I have worked on a number of assignments and projects throughtout my time at Columbia. Some of the major ones are listed below.
+I have worked on a number of assignments and projects throughout my time at Columbia. Some of the major ones are listed below.
 
 ##Group Project Work
 
