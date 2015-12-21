@@ -4,7 +4,7 @@ title: Project Work
 permalink: /projects/
 ---
 
-I have worked on a number of assignments and projects throughtout my time at Columbia thus far. Some of the major ones are listed below.
+I have worked on a number of assignments and projects throughtout my time at Columbia. Some of the major ones are listed below.
 
 ##Group Project Work
 
@@ -47,6 +47,6 @@ Used collaborative filtering algorithms that utilize user feedback in order to p
 
 ##Coursework
 
-Please also check out my GitHub coursework repo at the link below, where I upload much of the code for my coursework (e.g. algorithms, machine learning, distributed computer systems, visualization, etc).
+Please also check out my GitHub coursework repo at the link below, where I have uploaded much of the code for my coursework (e.g. algorithms, machine learning, distributed computer systems, visualization, etc).
 
 *[GitHub](https://github.com/jmrosen155/coursework)*
