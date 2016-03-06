@@ -6,9 +6,9 @@ permalink: /projects/
 
 I have worked on a number of assignments and projects throughout my time at Columbia. Some of the major ones are listed below.
 
-# Group Project Work
+## Group Project Work
 
-### Social Network Analysis of Twitter (in partnership with Synergic Partners)
+#### Social Network Analysis of Twitter (in partnership with Synergic Partners)
 
 The goal of this project was to characterize and map, using network science and text mining techniques, the online Twitter conversation surrounding ‘Data Science’ and ‘Big Data.’ Specifically, we were interested in identifying Twitter influencers in a manner that would facilitate effective marketing campaigns by targeting individuals who can diffuse information in an efficient manner. To this end, the network was constructed by combining the “retweet” and “mention” layers into one projected layer that captures both information diffusion processes. Community structures were identified in the projected network using K-Clique, Modularity, Random Walk, and the Mixed Membership Stochastic Blockmodel. We subsequently identified influencers within each community by utilizing various centrality metrics and analyzed user profiles to gain further insight into the demographics of the communities. Latent Dirichlet Allocation (LDA) was explored in our analysis to incorporate textual data into characterizing the communities. While each of the community detection algorithms we explored has its merits, for our sparse network of tweets, we found that modularity and random walk produced the most coherent communities based on user demographics and influencers. Finally, the network and user demographics of each community were represented in an interactive visualization to allow for further exploration.
 
@@ -45,7 +45,7 @@ Used collaborative filtering algorithms that utilize user feedback in order to p
 
 *[GitHub](https://github.com/jmrosen155/musicanalysis)*
 
-# Other Coursework
+## Other Coursework
 
 Please also check out my GitHub coursework repo at the link below, where I have uploaded much of the code for my coursework (e.g. algorithms, machine learning, distributed computer systems, visualization, etc).
 
