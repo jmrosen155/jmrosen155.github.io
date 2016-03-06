@@ -45,7 +45,7 @@ Used collaborative filtering algorithms that utilize user feedback in order to p
 
 *[GitHub](https://github.com/jmrosen155/musicanalysis)*
 
-## Coursework
+# Other Coursework
 
 Please also check out my GitHub coursework repo at the link below, where I have uploaded much of the code for my coursework (e.g. algorithms, machine learning, distributed computer systems, visualization, etc).
 
