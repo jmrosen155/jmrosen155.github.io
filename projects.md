@@ -16,7 +16,7 @@ The goal of this project was to characterize and map, using network science and 
 
 *[Slides](https://cdn.rawgit.com/jmrosen155/coursework/master/Capstone%20Project/Twitter%20-%20Presentation%2020151214.pdf)*
 
-### Yelp Recommendation System
+#### Yelp Recommendation System
 
 Implemented new features to visualize Yelp search results around Columbia University using the 2012 Yelp academic dataset:
 
@@ -35,7 +35,7 @@ Implemented new features to visualize Yelp search results around Columbia Univer
 
 *[GitHub](https://github.com/CUDSY/Yelp)*
 
-### Music Recommendation System Using the Million Song Dataset (last.fm)
+#### Music Recommendation System Using the Million Song Dataset (last.fm)
 
 Used collaborative filtering algorithms that utilize user feedback in order to predict what songs users may like. For benchmarking the algorithms, we used a Mean Average Precision score truncated at 500 recommended songs. It was discovered that probabilistic matrix factorization with a MAP value of 0.014 did not improve results much from using a baseline of simply recommending popular songs, while artist-based popularity along with user-based and item-based collaborative filtering methods yielded much better results, with the best method giving a MAP value of 0.048.
 
