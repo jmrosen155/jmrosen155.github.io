@@ -6,7 +6,7 @@ permalink: /projects/
 
 I have worked on a number of assignments and projects throughout my time at Columbia. Some of the major ones are listed below.
 
-## Group Project Work
+# Group Project Work
 
 ### Social Network Analysis of Twitter (in partnership with Synergic Partners)
 
